@@ -87,12 +87,7 @@ Returns:
 * Poster
 * Rating
 
-```
-/screenshots/
-   ├── search_example.png
-   ├── mobile_view.png
-   └── empty_state.png
-```
+---
 
 ## 📄 License
 
